@@ -1,0 +1,9 @@
+// Módulos 
+npm i express mongoose morgan dotenv cors
+
+// Módulos para typescript
+// ? ts-node-dev para recargar el servidor (tipo nodemon)
+npm i -D typescript @types/express @types/mongoose @types/morgan @types/cors ts-node-dev
+
+// Configutación para el uso de typescript
+npx tsc --init

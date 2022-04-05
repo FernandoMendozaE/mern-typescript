@@ -1,0 +1,5 @@
+// Libreria para notificar 
+https://www.npmjs.com/package/react-toastify
+
+// Libreria para mostrar los videos
+https://www.npmjs.com/package/react-player
